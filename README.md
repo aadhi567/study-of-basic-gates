@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-# Name: AADHITHAN
+# Name: AADHITHAN B
 # Register no: 212224040001
 
 **AIM:** 
